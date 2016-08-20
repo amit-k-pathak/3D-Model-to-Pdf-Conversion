@@ -1,0 +1,6 @@
+C:\Users\amitp\Documents\Visual Studio 2012\Projects\DWGtoPdfCoverterTrueView\DWGtoPdfCoverterTrueView\bin\x64\Debug\DWGtoPdfCoverterTrueView.exe.config
+C:\Users\amitp\Documents\Visual Studio 2012\Projects\DWGtoPdfCoverterTrueView\DWGtoPdfCoverterTrueView\bin\x64\Debug\DWGtoPdfCoverterTrueView.exe
+C:\Users\amitp\Documents\Visual Studio 2012\Projects\DWGtoPdfCoverterTrueView\DWGtoPdfCoverterTrueView\bin\x64\Debug\DWGtoPdfCoverterTrueView.pdb
+C:\Users\amitp\Documents\Visual Studio 2012\Projects\DWGtoPdfCoverterTrueView\DWGtoPdfCoverterTrueView\obj\x64\Debug\DWGtoPdfCoverterTrueView.csprojResolveAssemblyReference.cache
+C:\Users\amitp\Documents\Visual Studio 2012\Projects\DWGtoPdfCoverterTrueView\DWGtoPdfCoverterTrueView\obj\x64\Debug\DWGtoPdfCoverterTrueView.exe
+C:\Users\amitp\Documents\Visual Studio 2012\Projects\DWGtoPdfCoverterTrueView\DWGtoPdfCoverterTrueView\obj\x64\Debug\DWGtoPdfCoverterTrueView.pdb

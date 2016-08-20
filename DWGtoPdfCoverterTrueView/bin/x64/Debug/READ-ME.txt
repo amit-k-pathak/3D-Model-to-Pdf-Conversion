@@ -1,0 +1,23 @@
+Instruction to use DWGtoPdfConverterTrueView.exe
+
+(1) Copy and paste temp folder into C:\
+
+(2) Make sure you have Autodesk DWGTrueView 2016 installed in the following Directory
+C:\Program Files\Autodesk\DWG TrueView 2016 - English
+
+(3) Goto exe path in command line and execute
+USAGE: <exe file name> <full path of csv file>
+
+********************************************************
+
+NOTE:
+
+(1) Autodesk provides only a limited set of functionalities in TrueView viewer therfore Plot/Publish to pdf command are available with limited options.
+
+(2) output for some dwg files may look distorted due to print paper size.
+
+(3) This converter taked dwg files from the specified directory in csv file and generate output pdf as:
+<dwg file name>_conv.pdf
+in the same directory.
+
+(4) Exe outputs a log file into the same directory.
