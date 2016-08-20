@@ -1,0 +1,42 @@
+;Command:
+_PLOT
+;Detailed plot configuration? [Yes/No] <No>: 
+Yes
+;Enter a layout name or [?] <Model>:
+Model
+;Enter an output device name or [?] <None>:
+DWG To PDF.pc3
+;Enter paper size or [?] <ANSI A (11.00 x 8.50 Inches)>:
+ANSI full bleed B (17.00 x 11.00 Inches)
+;Enter paper units [Inches/Millimeters] <Inches>:
+Inches
+;Enter drawing orientation [Portrait/Landscape] <Portrait>: 
+Landscape
+;Plot upside down? [Yes/No] <No>:
+No
+;Enter plot area [Display/Extents/Limits/View/Window/layout] <Display>: 
+Extents
+;Enter plot scale (Plotted Inches=Drawing Units) or [Fit] <Fit>:
+Fit
+;Enter plot offset (x,y)<0.00,0.00>:
+Center
+;Plot with plot styles? [Yes/No] <Yes>:
+Yes
+;Enter plot style table name or [?] (enter . for none) <>:
+.
+;Plot with lineweights? [Yes/No] <Yes>:
+Yes
+;Scale lineweights with plot scale? [Yes/No] <No>:
+Yes
+;Plot paper space first?[Yes/No] <No>:
+No
+;Hide paper space objects[Yes/No] <No>:
+No
+;Enter file name <C:\Work\solids-Model.pdf>:
+
+;Save changes to page setup? Or set shade plot quality? [Yes/No/Quality] <N>:
+N
+;Proceed with plot [Yes/No] <Y>:
+Y
+
+

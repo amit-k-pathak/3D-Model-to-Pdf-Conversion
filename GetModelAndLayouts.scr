@@ -1,0 +1,10 @@
+;Command:
+_PLOT
+;Detailed plot configuration? [Yes/No] <No>: 
+Yes
+;Enter a layout name or [?] <Model>:
+?
+;Exit
+
+
+

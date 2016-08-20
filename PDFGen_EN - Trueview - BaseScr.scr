@@ -1,0 +1,17 @@
+;Command:
+_PLOT
+;Detailed plot configuration? [Yes/No] <No>: 
+Yes
+;Enter a layout name or [?] <Model>:
+Model
+;Enter an output device name or [?] <None>:
+DWG To PDF.pc3
+;Enter paper size or [?] <ANSI A (11.00 x 8.50 Inches)>:
+ANSI full bleed B (17.00 x 11.00 Inches)
+;Enter paper units [Inches/Millimeters] <Inches>:
+Inches
+;Enter drawing orientation [Portrait/Landscape] <Portrait>: 
+Landscape
+;Plot upside down? [Yes/No] <No>:
+No
+_quit
