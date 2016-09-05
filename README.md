@@ -4,10 +4,10 @@ At the top of the file there should be a short introduction and/ or overview tha
 
 ## Project Dependencies
 
-1) Install Autodesk DWG True Viewer 2016 for Windows
-2) Copy Scrits folder into some drive
-3) Generate a csv file containing all dwg file names with path
-4) Build and run the converter supplying full path of csv file
+* Install Autodesk DWG True Viewer 2016 for Windows
+* Copy Scrits folder into some drive
+* Generate a csv file containing all dwg file names with path
+* Build and run the converter supplying full path of csv file
 
 ## Motivation
 
