@@ -11,7 +11,7 @@ Autodesk 3D Files(DWG & DXF) to PDF Conversion and Automation using free Autodes
 
 * Install Autodesk DWG True Viewer 2016 for Windows
 * Copy Scrits files into some folder (for example D:\Scripts\)
-* Generate a csv file containing all dwg file names with path (example csv record: (DWG file name) (Full path))
+* Generate a csv file containing all dwg file names with path (example csv record: [DWG file name] [Full path]
 * Build and run the converter supplying full path of csv file
 
 ## Motivation
