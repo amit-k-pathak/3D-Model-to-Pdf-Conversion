@@ -16,7 +16,7 @@ Autodesk 3D Files(DWG & DXF) to PDF Conversion and Automation using free Autodes
 
 ## Motivation
 
-To create a freely available tool to convert 3D Fils(DWG,DXF) to 2D Pdf.
+To create a freely available tool to convert 3D Files(DWG,DXF) to 2D Pdf.
 
 
 
